@@ -67,7 +67,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #012970;
+  background: #006d77;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -1228,7 +1228,7 @@ section {
   font-size: 18px;
 }
 .recent-blog-posts .post-box:hover .post-title {
-  color: #4154f1;
+  color: #006d77;
 }
 .recent-blog-posts .post-box:hover .post-img img {
   transform: rotate(6deg) scale(1.2);
@@ -1358,7 +1358,7 @@ section {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 .blog .entry .entry-img {
-  max-height: 440px;
+  max-height: auto;
   margin: -30px -30px 20px -30px;
   overflow: hidden;
 }
@@ -1369,11 +1369,11 @@ section {
   margin: 0 0 20px 0;
 }
 .blog .entry .entry-title a {
-  color: #012970;
+  color: #006d77;
   transition: 0.3s;
 }
 .blog .entry .entry-title a:hover {
-  color: #4154f1;
+  color: #058d99;
 }
 .blog .entry .entry-meta {
   margin-bottom: 15px;
@@ -1513,7 +1513,7 @@ section {
   font-size: 22px;
   margin-bottom: 0px;
   padding: 0;
-  color: #012970;
+  color: #006d77;
 }
 .blog .blog-author .social-links {
   margin: 0 10px 10px 0;
@@ -1556,7 +1556,7 @@ section {
 }
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
-  color: #012970;
+  color: #006d77;
 }
 .blog .blog-comments .comment h5 .reply i {
   font-size: 20px;
@@ -1564,7 +1564,7 @@ section {
 .blog .blog-comments .comment time {
   display: block;
   font-size: 14px;
-  color: #013ca3;
+  color: #006d77;
   margin-bottom: 5px;
 }
 .blog .blog-comments .comment.comment-reply {
@@ -1650,7 +1650,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #012970;
+  color: #006d77;
   position: relative;
 }
 .blog .sidebar .sidebar-item {
@@ -1688,7 +1688,7 @@ section {
   line-height: 0;
 }
 .blog .sidebar .search-form form button:hover {
-  background: #5465f2;
+  background: #006d77;
 }
 .blog .sidebar .categories ul {
   list-style: none;
@@ -1698,7 +1698,7 @@ section {
   padding-top: 10px;
 }
 .blog .sidebar .categories ul a {
-  color: #012970;
+  color: #006d77;
   transition: 0.3s;
 }
 .blog .sidebar .categories ul a:hover {
@@ -1722,7 +1722,7 @@ section {
   font-weight: bold;
 }
 .blog .sidebar .recent-posts h4 a {
-  color: #012970;
+  color: #006d77;
   transition: 0.3s;
 }
 .blog .sidebar .recent-posts h4 a:hover {
